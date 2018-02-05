@@ -1,4 +1,4 @@
-package ua.com.owu;
+package ua.com.krislo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

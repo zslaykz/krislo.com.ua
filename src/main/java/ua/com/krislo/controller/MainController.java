@@ -1,4 +1,4 @@
-package ua.com.owu.controller;
+package ua.com.krislo.controller;
 
 
 import org.springframework.stereotype.Controller;
